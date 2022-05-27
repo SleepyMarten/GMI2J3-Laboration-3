@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2003-09-23 22:50:59
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+22:50:59 95.16.3.23 GET /iisstart.asp 200
+22:50:59 95.16.3.23 GET /pagerror.gif 200
+22:51:17 95.16.3.79 GET /iisstart.asp 200
+22:51:17 95.16.3.79 GET /Nikto-1.30-Y7hUN21Duija.htm 404
