@@ -1,2 +1,0 @@
-# Dynamisk_FastAPI
- 
